@@ -1,0 +1,15 @@
+name: mSpawn
+version: 0.1
+description: Spawn
+main: mspawn.main.Main
+author: Jeremy Gooch (Googlelover1234)
+commands:
+  Spawn:
+    description: Teleport to spawn.
+    usage: /<command>
+  SetSpawn:
+    description: Set the spawnpoint.
+    usage: /<command>
+permissions:
+  spawn.set:
+    default: op
