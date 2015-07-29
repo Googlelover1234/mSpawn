@@ -1,0 +1,2 @@
+# mSpawn
+Basic spawn plugin
